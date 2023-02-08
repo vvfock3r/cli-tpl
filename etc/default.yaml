@@ -1,0 +1,8 @@
+global:
+  log:
+    # level:  日志级别，支持debug,info,warn,error等
+    # format: 日志格式，支持console和json
+    # output: 输出位置，支持stdout,stderr或任意文件名，多个输出使用逗号分割
+    level: info
+    format: console
+    output: stdout
